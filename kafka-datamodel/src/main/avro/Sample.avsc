@@ -1,0 +1,13 @@
+{
+  "type": "record",
+  "namespace": "com.iqmsoft",
+  "name": "Test",
+  "doc": "Please describe your object",
+  "fields": [
+    {
+      "name": "name",
+      "doc": "Name of the sample object",
+      "type": "string"
+    }
+  ]
+}
